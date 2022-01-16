@@ -1,5 +1,5 @@
 ### HELLO👋
 
-- 🔭 I’m currently working on PHP Oauth System
-- 🌱 I’m currently learning backend technologies
-- 🥅 2020 Goals: To become an full stack dev
+- 🔭 I’m currently working with REST APIs
+- 🌱 I'm currently studying fundamentals of system design
+- 🥅 2022 Goals: To become an full stack dev
